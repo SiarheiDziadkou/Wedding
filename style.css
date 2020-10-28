@@ -1,0 +1,53 @@
+body {
+    background-color: #fee6da;
+}
+
+.main {
+    margin: 1% auto;
+    width: 80%;
+    background-color: #0d131f;
+    border-radius: 2em;
+    text-align: center;
+}
+
+.photo {
+    padding-top: 12%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.photo img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    color: #fee6da;
+}
+
+.big-font {
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.no-margin {
+    margin-bottom: 0;
+}
+
+.text {
+    margin: 3% 10%;
+}
+
+.post {
+    margin: 3% 10%;
+}
+
+.button-area {
+    margin: 3% 10%;
+}
+
+.disline {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 3% 10%;
+}
